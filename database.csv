@@ -1,31 +1,31 @@
 nome,data_nascimento,altura,nacionalidade,gênero,grupo
-Albert Einstein,1879-03-14,1.80,Alemão,Masculino,Físico
-Marie Curie,1867-11-07,1.65,Polonesa,Feminino,Físico
-Isaac Newton,1643-01-04,1.70,Inglês,Masculino,Físico
-Niels Bohr,1885-10-07,1.76,Dinamarquês,Masculino,Físico
-Richard Feynman,1918-05-11,1.78,Americano,Masculino,Físico
-James Clerk Maxwell,1831-06-13,1.73,Escocês,Masculino,Físico
-Paul Dirac,1902-08-08,1.72,Britânico,Masculino,Físico
-Enrico Fermi,1901-09-29,1.80,Italiano,Masculino,Físico
-Werner Heisenberg,1901-12-05,1.79,Alemão,Masculino,Físico
-Max Planck,1858-04-23,1.74,Alemão,Masculino,Físico
-Usain Bolt,1986-08-21,1.95,Jamaicano,Masculino,Modalidade Esportiva
-Serena Williams,1981-09-26,1.75,Americana,Feminino,Modalidade Esportiva
-Lionel Messi,1987-06-24,1.70,Argentino,Masculino,Modalidade Esportiva
-Michael Phelps,1985-06-30,1.93,Americano,Masculino,Modalidade Esportiva
-Cristiano Ronaldo,1985-02-05,1.87,Português,Masculino,Modalidade Esportiva
-Novak Djokovic,1987-05-22,1.88,Sérvio,Masculino,Modalidade Esportiva
-Rafael Nadal,1986-06-03,1.85,Espanhol,Masculino,Modalidade Esportiva
-LeBron James,1984-12-30,2.06,Americano,Masculino,Modalidade Esportiva
-Stephen Curry,1988-03-14,1.91,Americano,Masculino,Modalidade Esportiva
-Tom Brady,1977-08-03,1.93,Americano,Masculino,Modalidade Esportiva
-Barack Obama,1961-08-04,1.85,Americano,Masculino,Político
-Angela Merkel,1954-07-08,1.65,Alemã,Feminino,Político
-Nelson Mandela,1918-07-18,1.85,Sul-Africano,Masculino,Político
-Justin Trudeau,1971-12-25,1.88,Canadense,Masculino,Político
-Emmanuel Macron,1977-12-21,1.73,Francês,Masculino,Político
-Margaret Thatcher,1925-10-13,1.73,Britânica,Feminino,Político
-Dilma Rousseff,1947-12-14,1.68,Brasileira,Feminino,Político
-Narendra Modi,1950-09-17,1.70,Indiano,Masculino,Político
-Vladimir Putin,1952-10-07,1.70,Russo,Masculino,Político
-Jacinda Ardern,1980-07-26,1.75,Neozelandesa,Feminino,Político
+Albert Einstein,14/03/1879,1.80,Alemão,Masculino,Físico
+Marie Curie,07/11/1867,1.65,Polonesa,Feminino,Físico
+Isaac Newton,04/01/1643,1.70,Inglês,Masculino,Físico
+Niels Bohr,07/10/1885,1.76,Dinamarquês,Masculino,Físico
+Richard Feynman,11/05/1918,1.78,Americano,Masculino,Físico
+James Clerk Maxwell,13/06/1831,1.73,Escocês,Masculino,Físico
+Paul Dirac,08/08/1902,1.72,Britânico,Masculino,Físico
+Enrico Fermi,29/09/1901,1.80,Italiano,Masculino,Físico
+Werner Heisenberg,05/12/1901,1.79,Alemão,Masculino,Físico
+Max Planck,23/04/1858,1.74,Alemão,Masculino,Físico
+Usain Bolt,21/08/1986,1.95,Jamaicano,Masculino,Modalidade Esportiva
+Serena Williams,26/09/1981,1.75,Americana,Feminino,Modalidade Esportiva
+Lionel Messi,24/06/1987,1.70,Argentino,Masculino,Modalidade Esportiva
+Michael Phelps,30/06/1985,1.93,Americano,Masculino,Modalidade Esportiva
+Cristiano Ronaldo,05/02/1985,1.87,Português,Masculino,Modalidade Esportiva
+Novak Djokovic,22/05/1987,1.88,Sérvio,Masculino,Modalidade Esportiva
+Rafael Nadal,03/06/1986,1.85,Espanhol,Masculino,Modalidade Esportiva
+LeBron James,30/12/1984,2.06,Americano,Masculino,Modalidade Esportiva
+Stephen Curry,14/03/1988,1.91,Americano,Masculino,Modalidade Esportiva
+Tom Brady,03/08/1977,1.93,Americano,Masculino,Modalidade Esportiva
+Barack Obama,04/08/1961,1.85,Americano,Masculino,Político
+Angela Merkel,08/07/1954,1.65,Alemã,Feminino,Político
+Nelson Mandela,18/07/1918,1.85,Sul-Africano,Masculino,Político
+Justin Trudeau,25/12/1971,1.88,Canadense,Masculino,Político
+Emmanuel Macron,21/12/1977,1.73,Francês,Masculino,Político
+Margaret Thatcher,13/10/1925,1.73,Britânica,Feminino,Político
+Dilma Rousseff,14/12/1947,1.68,Brasileira,Feminino,Político
+Narendra Modi,17/09/1950,1.70,Indiano,Masculino,Político
+Vladimir Putin,07/10/1952,1.70,Russo,Masculino,Político
+Jacinda Ardern,26/07/1980,1.75,Neozelandesa,Feminino,Político
